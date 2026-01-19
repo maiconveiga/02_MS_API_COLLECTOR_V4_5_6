@@ -1,0 +1,4 @@
+.venv
+collector.db
+collector.db-shm
+collector.db-wal
